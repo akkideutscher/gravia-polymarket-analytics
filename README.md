@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://gravia.trade"><img src="assets/gravia-logo.svg" width="72" alt="Gravia logo"></a>
+  <a href="https://gravia.trade?via=github"><img src="assets/gravia-logo.svg" width="72" alt="Gravia logo"></a>
 </p>
 
 <h1 align="center">Gravia</h1>
@@ -7,8 +7,8 @@
 <p align="center"><strong>Research on the website. Build with the APIs.</strong><br>Polymarket analytics and live data for market makers and quant traders.</p>
 
 <p align="center">
-  <a href="https://gravia.trade"><strong>Explore Gravia</strong></a> ·
-  <a href="https://docs.gravia.trade"><strong>API docs</strong></a> ·
+  <a href="https://gravia.trade?via=github"><strong>Explore Gravia</strong></a> ·
+  <a href="https://docs.gravia.trade?via=github"><strong>API docs</strong></a> ·
   <a href="https://discord.gg/Gravia"><img src="assets/discord.png" width="20" height="20" alt="Discord"> <strong>Join Discord</strong></a>
 </p>
 
@@ -18,17 +18,17 @@
 
 Go beyond a headline number. Explore daily PnL, positions, category performance, fees, and maker and taker rebates in one view.
 
-[![Gravia wallet analysis showing PnL, fees, rebates, categories, and a daily calendar](assets/wallet-analysis.png)](https://gravia.trade/0xeebde7a0e019a63e6b476eb425505b7b3e6eba30)
+[![Gravia wallet analysis showing PnL, fees, rebates, categories, and a daily calendar](assets/wallet-analysis.png)](https://gravia.trade/0xeebde7a0e019a63e6b476eb425505b7b3e6eba30?via=github)
 
-**[Explore this wallet live →](https://gravia.trade/0xeebde7a0e019a63e6b476eb425505b7b3e6eba30)**
+**[Explore this wallet live →](https://gravia.trade/0xeebde7a0e019a63e6b476eb425505b7b3e6eba30?via=github)**
 
 ## Find the traders worth studying
 
 Filter traders by category, performance, position size, and maker/taker activity. Compare their results and open a wallet to investigate further.
 
-[![Gravia trader analytics showing filters, wallet rankings, win rates, and PnL charts](assets/trader-analytics.png)](https://gravia.trade/analytics)
+[![Gravia trader analytics showing filters, wallet rankings, win rates, and PnL charts](assets/trader-analytics.png)](https://gravia.trade/analytics?via=github)
 
-**[Open trader analytics →](https://gravia.trade/analytics)**
+**[Open trader analytics →](https://gravia.trade/analytics?via=github)**
 
 <sub>Live product screenshots captured on 21 October 2026.</sub>
 
@@ -39,7 +39,7 @@ Filter traders by category, performance, position size, and maker/taker activity
 - **Counterparty analytics:** understand the wallets and flow you trade against.
 - **Live transaction streams:** consume events directly in your algorithms.
 
-**[Browse the API docs →](https://docs.gravia.trade)**
+**[Browse the API docs →](https://docs.gravia.trade?via=github)**
 
 ## Check the timing for yourself
 
