@@ -1,33 +1,59 @@
-# Gravia
+<p align="center">
+  <a href="https://gravia.trade"><img src="assets/gravia-logo.svg" width="72" alt="Gravia logo"></a>
+</p>
 
-### Know your PnL. Understand your fills. See the flow sooner.
+<h1 align="center">Gravia</h1>
 
-Real-time data and analytics for Polymarket market makers and quant traders.
+<p align="center"><strong>Research on the website. Build with the APIs.</strong><br>Polymarket analytics and live data for market makers and quant traders.</p>
 
-**[Explore Gravia →](https://gravia.trade)** · **[API docs →](https://docs.gravia.trade)** · **[Join Discord →](https://discord.gg/Gravia)**
+<p align="center">
+  <a href="https://gravia.trade"><strong>Explore Gravia</strong></a> ·
+  <a href="https://docs.gravia.trade"><strong>API docs</strong></a> ·
+  <a href="https://discord.gg/Gravia"><img src="assets/discord.png" width="20" height="20" alt="Discord"> <strong>Join Discord</strong></a>
+</p>
 
-## Built for your trading workflow
+**7 of the top 10 crypto bots use Gravia.** Try the public analytics, read the API docs, and inspect the benchmark data before you integrate.
 
-- **PnL that explains the result.** Category breakdowns, position analytics, fees, and rebate data.
-- **Know what happens after every fill.** Trade-level markouts to research execution quality and flow toxicity.
-- **Understand the competition.** Wallet activity, positions, and counterparty analytics.
-- **Bring the data into your algorithms.** APIs and live transaction streams, alongside analytics for deeper research.
+## See where a wallet's PnL comes from
 
-**7 of the top 10 crypto bots use Gravia.**
+Go beyond a headline number. Explore daily PnL, positions, category performance, fees, and maker and taker rebates in one view.
 
-## See the timing difference
+[![Gravia wallet analysis showing PnL, fees, rebates, categories, and a daily calendar](assets/wallet-analysis.png)](https://gravia.trade/0xeebde7a0e019a63e6b476eb425505b7b3e6eba30)
+
+**[Explore this wallet live →](https://gravia.trade/0xeebde7a0e019a63e6b476eb425505b7b3e6eba30)**
+
+## Find the traders worth studying
+
+Filter traders by category, performance, position size, and maker/taker activity. Compare their results and open a wallet to investigate further.
+
+[![Gravia trader analytics showing filters, wallet rankings, win rates, and PnL charts](assets/trader-analytics.png)](https://gravia.trade/analytics)
+
+**[Open trader analytics →](https://gravia.trade/analytics)**
+
+<sub>Live product screenshots captured on 21 October 2026.</sub>
+
+## Bring the data into your bot
+
+- **PnL and positions:** monitor performance across wallets and categories.
+- **Trade-level markouts:** study price moves after your fills and investigate flow toxicity.
+- **Counterparty analytics:** understand the wallets and flow you trade against.
+- **Live transaction streams:** consume events directly in your algorithms.
+
+**[Browse the API docs →](https://docs.gravia.trade)**
+
+## Check the timing for yourself
 
 | Gravia feed vs Polymarket RTDS | Median arrival lead | Arrived earlier |
 | --- | ---: | ---: |
 | Internal mempool | **1,751 ms** | **100%** |
 | Internal confirmed | **482 ms** | **96.65%** |
 
-[View the transaction-level comparison CSV →](comparison.csv)
+**[Inspect all 1,461 matched transactions →](comparison.csv)**
 
-Measured across 1,461 matched transactions over two minutes on 21 October 2026, on a Gravia host in Dublin. Gravia feeds were internal; RTDS was remote. Results exclude Gravia public API and internet delivery overhead and are not a guaranteed customer latency advantage. CSV times are milliseconds since the sample began; positive lead means Gravia arrived earlier.
+Two-minute sample on 21 October 2026, measured on a Gravia host in Dublin. Gravia feeds were internal; RTDS was remote. Results exclude Gravia public API and internet delivery overhead and are not a guaranteed customer latency advantage. CSV times are milliseconds since the sample began; positive lead means Gravia arrived earlier.
 
-## Put Gravia to work
+## Tell us what you're building
 
-**Research a wallet:** [Open Gravia](https://gravia.trade)  
-**Build an integration:** [Read the API docs](https://docs.gravia.trade)  
-**Get API access or talk to the team:** [Join Discord](https://discord.gg/Gravia)
+Want API access or help finding the right data for your strategy? Come talk to the team.
+
+<a href="https://discord.gg/Gravia"><img src="assets/discord.png" width="24" height="24" alt="Discord"> <strong>Join the Gravia Discord →</strong></a>
