@@ -14,6 +14,12 @@
 
 **7 of the top 10 crypto bots use Gravia.** Try the public analytics, read the API docs, and inspect the benchmark data before you integrate.
 
+## What the Polymarket community is saying
+
+Members of Polymarket's official Discord are sharing their love for Gravia. See the community feedback below, then **search for "gravia" in Polymarket's official Discord and see the conversations for yourself.**
+
+![Community members in Polymarket's official Discord praising Gravia](assets/polymarket-discord-community.png)
+
 ## See where a wallet's PnL comes from
 
 Go beyond a headline number. Explore daily PnL, positions, category performance, fees, and maker and taker rebates in one view.
