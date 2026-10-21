@@ -18,7 +18,9 @@
 
 Members of Polymarket's official Discord are sharing their love for Gravia. See the community feedback below, then **search for "gravia" in Polymarket's official Discord and see the conversations for yourself.**
 
-![Community members in Polymarket's official Discord praising Gravia](assets/polymarket-discord-community.png)
+[![Community members in Polymarket's official Discord praising Gravia](assets/polymarket-discord-community.png?v=2)](https://raw.githubusercontent.com/akkideutscher/gravia-polymarket-analytics/main/assets/polymarket-discord-community.png?v=2)
+
+[View full-resolution screenshot (3326 × 1850) →](https://raw.githubusercontent.com/akkideutscher/gravia-polymarket-analytics/main/assets/polymarket-discord-community.png?v=2)
 
 ## See where a wallet's PnL comes from
 
